@@ -50,5 +50,7 @@ Latency (HF Spaces CPU): <150–250 ms per image (ResNet-18).
 **Business Impact**
 
 Faster iteration: Per-class metrics + confusion matrix highlight failure modes; teams report 30–50% faster model triage in early POCs.
+
 Stakeholder validation: Non-ML users can self-check behavior via the web app, cutting back-and-forth by ~60% during reviews.
+
 Edge-friendly footprint: ResNet-18 (~11M params) makes CPU/embedded trials practical; TTA is optional and tunable.
