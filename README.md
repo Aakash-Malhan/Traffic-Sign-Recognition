@@ -1,6 +1,8 @@
 # Traffic Sign Recognition — PyTorch + Gradio
 Real-time traffic sign classification using a fine-tuned ResNet-18 on the GTSRB dataset, with a clean Gradio web UI (upload + webcam). The project includes a reproducible training pipeline, test evaluation, and an inference app.
 
+**Demo** - https://huggingface.co/spaces/aakash-malhan/Traffic-Sign-Recognition
+
 <img width="1914" height="752" alt="Screenshot 2025-10-22 115659" src="https://github.com/user-attachments/assets/03a9b930-a60f-45cd-ac30-51a41a81e4f3" />
 
 
